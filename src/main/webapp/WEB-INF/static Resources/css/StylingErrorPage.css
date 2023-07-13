@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+h1, h3, .ApplicationLink {
+	text-align: center;
+	color: white;
+}
+
+body {
+	background-color: rgb(91, 86, 86);
+}
+
+a {
+	color: white;
+}
