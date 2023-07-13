@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'azureAssgnShubham06'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D16C285D32DD41A0BA5EA6F87EBD1236 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA7CBB19BB92499BBB3327656B8D8A32 }}
           package: '*.war'
